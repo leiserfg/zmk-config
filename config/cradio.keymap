@@ -106,15 +106,15 @@
 			bindings = <&lt ZMKL ESC>;
 		};
 		
-		# combo_hdalte {
-		# 	key-positions = <25 32 33>;
-		# 	bindings = <&tog HDALTE>;
-		# };
-		
-		# combo_hdgold {
-		# 	key-positions = <24 30 31>;
-		# 	bindings = <&tog QWERTY>;
-		# };
+		//combo_hdalte {
+		//	key-positions = <25 32 33>;
+		//	bindings = <&tog HDALTE>;
+		//};
+
+		//combo_hdgold {
+		//	key-positions = <24 30 31>;
+		//	bindings = <&tog QWERTY>;
+		//};
 
 		//Left-hand combos
 		combo_lcaps_word {
