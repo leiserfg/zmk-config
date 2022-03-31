@@ -53,11 +53,16 @@
   ╰───────────╮ 30  31 │ │ 32  33 ╭───────────╯
               ╰────────╯ ╰────────╯            */
 
+    COMBO(esc, &kp ESC, 0 1, BASE)
+    COMBO(esc, &kp LS(TAB), 10 11, BASE)
+    COMBO(esc, &kp TAB, 12 13, BASE)
+    COMBO(meta, SK(LGUI), 20 21, BASE)
+
+
     COMBO(altgr, SK(RALT), 27 28, BASE SYM NUM)
     COMBO(bsp, &kp BSPC, 8 9, BASE)
     COMBO(entr, &kp ENTER, 18 19, BASE)
     COMBO(del, &kp DEL, 28 29, BASE)
-    COMBO(esc, &kp ESC, 0 1, BASE)
 
   };
 
