@@ -54,8 +54,8 @@
               ╰────────╯ ╰────────╯            */
 
     COMBO(esc, &kp ESC, 0 1, BASE)
-    COMBO(esc, &kp LS(TAB), 10 11, BASE)
-    COMBO(esc, &kp TAB, 12 13, BASE)
+    COMBO(stab, &kp LS(TAB), 10 11, BASE)
+    COMBO(tab, &kp TAB, 12 13, BASE)
     COMBO(meta, SK(LGUI), 20 21, BASE)
 
 
