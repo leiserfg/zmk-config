@@ -54,9 +54,9 @@
               ╰────────╯ ╰────────╯            */
 
     COMBO(altgr, SK(RALT), 27 28, BASE SYM NUM)
-    COMBO(bsp, SK(BSPC), 8 9, BASE)
-    COMBO(entr, SK(ENTER), 18 19, BASE)
-    COMBO(del, SK(DEL), 28 29, BASE)
+    COMBO(bsp, &kp BSPC, 8 9, BASE)
+    COMBO(entr, &kp ENTER, 18 19, BASE)
+    COMBO(del, &kp DEL, 28 29, BASE)
     COMBO(esc, &kp ESC, 0 1, BASE)
 
   };
