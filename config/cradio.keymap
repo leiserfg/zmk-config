@@ -74,13 +74,14 @@
          tapping-term-ms = <200>;
          bindings = <&reset>, <&bootloader>;
     };
-     slash_semi: slash_semi {
-         compatible = "zmk,behavior-tap-dance";
+     th: tap_hold {
+         compatible = "zmk,behavior-tap-hold";
          label = "SLASH_SEMI";
-         tapping-term-ms = <150>;
-         quick_tap_ms = <0>;
          flavor = "tap-preferred";
-         bindings = <&kp SLASH>, <&kp SEMI>;
+         tapping-term-ms = <150>;
+         #binding-cells = <2>;
+         quick_tap_ms = <0>;
+         bindings = <&kp>, <&kp>;
     };
  
     skq: sticky_key_quick_release {
@@ -135,7 +136,7 @@
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
              &kp A         &kp S         &kp D         &kp F         &kp G             &kp H         &kp J         &kp K         &kp L         &kp SQT
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-             &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA   &kp DOT         &slash_semi
+             &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA   &kp DOT         &th SLASH SEMI
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
                                                        MO(NAV)       &skq LSHIFT       &kp SPACE     MO(SYM)
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
