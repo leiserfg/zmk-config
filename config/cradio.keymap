@@ -1,4 +1,4 @@
-// Some ideas borrowed from 
+// Some ideas borrowed from
 
 // https://github.com/callum-oakley/keymap
 // https://github.com/dxmh/zmk-config/
@@ -74,6 +74,14 @@
          tapping-term-ms = <200>;
          bindings = <&reset>, <&bootloader>;
     };
+     slash_semi: slash_semi {
+         compatible = "zmk,behavior-tap-dance";
+         label = "SLASH_SEMI";
+         #binding-cells = <0>;
+         tapping-term-ms = <120>;
+         bindings = <&kp SLASH>, <&kp SEMI>;
+    };
+ 
     skq: sticky_key_quick_release {
       compatible = "zmk,behavior-sticky-key";
       label = "STICKY_KEY_QUICK_RELEASE";
@@ -105,6 +113,7 @@
       bindings = <&mo>, <&kp>;
     };
 
+
   };
   cond_layers {
       compatible = "zmk,conditional-layers";
@@ -125,7 +134,7 @@
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
              &kp A         &kp S         &kp D         &kp F         &kp G             &kp H         &kp J         &kp K         &kp L         &kp SQT
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-             &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA     &kp DOT       &kp SLASH
+             &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &slash_semi   &kp DOT       &kp SLASH
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
                                                        MO(NAV)       &skq LSHIFT       &kp SPACE     MO(SYM)
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
@@ -141,7 +150,7 @@
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
              &kp MINUS      &kp STAR     &kp EQUAL     &kp UNDER     &kp DOLLAR        &kp HASH      SK(LGUI)      SK(LSHIFT)    SK(LALT)      SK(LCTRL)
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-             &kp PLUS        &kp PIPE     &kp AT      &kp FSLH      &kp PERCENT        XXX           &kp BSLH      &kp AMPS      &kp QMARK     &kp EXCL
+             &kp PLUS        &kp PIPE     &kp AT      &kp FSLH      &kp PERCENT        &kp AMPS      &kp BSLH      &kp SEMI      &kp QMARK     &kp EXCL
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
                                                        ___           ___               ___           ___
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
