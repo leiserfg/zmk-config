@@ -77,8 +77,9 @@
      slash_semi: slash_semi {
          compatible = "zmk,behavior-tap-dance";
          label = "SLASH_SEMI";
-         #binding-cells = <0>;
-         tapping-term-ms = <120>;
+         tapping-term-ms = <150>;
+         quick_tap_ms = <0>;
+         flavor = "tap-preferred";
          bindings = <&kp SLASH>, <&kp SEMI>;
     };
  
@@ -134,7 +135,7 @@
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
              &kp A         &kp S         &kp D         &kp F         &kp G             &kp H         &kp J         &kp K         &kp L         &kp SQT
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤
-             &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &slash_semi   &kp DOT       &kp SLASH
+             &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA   &kp DOT         &slash_semi
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴─────────────╯
                                                        MO(NAV)       &skq LSHIFT       &kp SPACE     MO(SYM)
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
