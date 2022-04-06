@@ -49,7 +49,7 @@ KEYMAP = [
         "right": [
             ["j", "l", "u", "y", "'"],
             ["m", "n", "e", "i", "o"],
-            ["k", "m", ",", ".", ";"],
+            ["k", "h", ",", ".", ";"],
         ],
         "thumbs": {
             "left": ["nav", "shift"],
@@ -146,7 +146,7 @@ HAND_H = 4 * KEYSPACE_H
 LAYER_W = 2 * HAND_W + OUTER_PAD_W
 LAYER_H = HAND_H
 BOARD_W = LAYER_W + 2 * OUTER_PAD_W
-BOARD_H = 4 * LAYER_H + 5 * OUTER_PAD_H
+BOARD_H = len(KEYMAP) * LAYER_H + 5 * OUTER_PAD_H
 
 
 def print_key(x, y, key):
