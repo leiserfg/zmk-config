@@ -138,7 +138,7 @@ KEYMAP = [
         },
     },
 ]
-
+LAYERS = len(KEYMAP)
 KEYSPACE_W = KEY_W + 2 * INNER_PAD_W
 KEYSPACE_H = KEY_H + 2 * INNER_PAD_H
 HAND_W = 5 * KEYSPACE_W
@@ -146,7 +146,7 @@ HAND_H = 4 * KEYSPACE_H
 LAYER_W = 2 * HAND_W + OUTER_PAD_W
 LAYER_H = HAND_H
 BOARD_W = LAYER_W + 2 * OUTER_PAD_W
-BOARD_H = len(KEYMAP) * LAYER_H + 5 * OUTER_PAD_H
+BOARD_H = LAYERS * LAYER_H + (LAYERS + 1) * OUTER_PAD_H
 
 
 def print_key(x, y, key):
