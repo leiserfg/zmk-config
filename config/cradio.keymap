@@ -94,7 +94,12 @@
       quick-release;
       release-after-ms = <STICKY_KEY_TIMEOUT>;
     };
-
+    tssa: tap-shift-altgr {
+      compatible = "zmk,behavior-tap-dance";
+      label = "TAP-SHIFT-ALTGR";
+      #binding-cells = <0>;
+      bindings = <&skp LSHIFT>, <&sk LALT>;
+    }
     // Sticky key on tap, normal key on hold
     // Useful for modifier-clicking without the modifier remaining active
     nk: not_so_sticky_key {
@@ -140,7 +145,7 @@
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼────────────────┼─────────────┼────────────────┤
              &kp Z         &kp X         &kp C         &kp V         &kp B             &kp N         &kp M         &kp COMMA        &kp DOT       &kp SEMI
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼────────────────┴─────────────┴────────────────╯
-                                                       MO(NAV)       &skq LSHIFT       &kp SPACE     MO(SYM)
+                                                       MO(NAV)       &tssa             &kp SPACE     MO(SYM)
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
       >;
     };
@@ -238,3 +243,4 @@
 
   };
 };
+
