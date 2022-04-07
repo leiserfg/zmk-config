@@ -39,8 +39,7 @@ def press(key):
     return {"key": key, "class": "press"}
 
 
-KEYMAP = [
-    {
+colemakdh = {
         "left": [
             ["q", "w", "f", "p", "b"],
             ["a", "r", "s", "t", "g"],
@@ -49,6 +48,24 @@ KEYMAP = [
         "right": [
             ["j", "l", "u", "y", "'"],
             ["m", "n", "e", "i", "o"],
+            ["k", "h", ",", ".", ";"],
+        ],
+        "thumbs": {
+            "left": ["nav", "shift"],
+            "right": ["space", "sym"],
+        }
+    }
+
+KEYMAP = [
+    {
+        "left": [
+            ["q", "w", "e", "r", "t"],
+            ["a", "s", "d", "f", "g"],
+            ["z", "x", "c", "v", "b"],
+        ],
+        "right": [
+            ["y", "u", "i", "o", "p"],
+            ["h", "j", "k", "l", "'"],
             ["k", "h", ",", ".", ";"],
         ],
         "thumbs": {
