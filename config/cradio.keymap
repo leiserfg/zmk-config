@@ -101,13 +101,6 @@
       bindings = <&skq LSHIFT>, <&sk LALT>;
     };
 
-    tktd: two-keys-tap-dance {
-      compatible = "zmk,behavior-tap-dance";
-      label = "two-keys-tap-dance";
-      #binding-cells = <2>;
-      bindings = <&kp>, <&kp>;
-    };
-    // Sticky key on tap, normal key on hold
     // Useful for modifier-clicking without the modifier remaining active
     nk: not_so_sticky_key {
       compatible = "zmk,behavior-hold-tap";
@@ -221,13 +214,13 @@
       label = "GAMING";
       bindings = <
         // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮   ╭─────────────┬─────────────┬─────────────┬─────────────────┬────────────────╮
-              &kp ESC      &kp Q         &kp W         &kp E         &tktd R T         XXX          XXX          &kp UP        XXX                XXX
+              &kp ESC      &kp Q         &kp W         &kp E         &th R T         XXX          XXX          &kp UP        XXX                XXX
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────────┼────────────────┤
-              &kp LCTRL    &kp A         &kp S         &kp D         &tktd F G         XXX          &kp LEFT      &kp DOWN      &kp RIGHT         &kp ENTER
+              &kp LCTRL    &kp A         &kp S         &kp D         &th F G         XXX          &kp LEFT      &kp DOWN      &kp RIGHT         &kp ENTER
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────────┼────────────────┤
-              &kp LSHIFT   &kp Z         &kp X         &kp C         &tktd V B         XXX          XXX           XXX           XXX               XXX
+              &kp LSHIFT   &kp Z         &kp X         &kp C         &th V B         XXX          XXX           XXX           XXX               XXX
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────────┴────────────────╯
-                                                        &mo GNUM     &kp LALT          &kp SPACE     &to BASE
+                                                        XXX          &kp LALT          &kp SPACE     &to BASE
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
       >;
     };
