@@ -56,8 +56,7 @@ colemakdh = {
         }
     }
 
-KEYMAP = [
-    {
+querty =   {
         "left": [
             ["q", "w", "e", "r", "t"],
             ["a", "s", "d", "f", "g"],
@@ -72,7 +71,10 @@ KEYMAP = [
             "left": ["nav", "shift"],
             "right": ["space", "sym"],
         },
-    },
+    }
+
+KEYMAP = [
+    colemakdh,
     {
         "left": [
             ["esc", "[", "{", "(", "~"],
