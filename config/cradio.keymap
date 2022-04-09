@@ -209,16 +209,16 @@
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
       >;
     };
-    /* ---------------------  This layers are just for playing so they are focused on left hand  ---------------------- */
+    /* ---------------------  These layers are just for playing so they are focused on left hand  ---------------------- */
     gaming_layer {
       label = "GAMING";
       bindings = <
         // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮   ╭─────────────┬─────────────┬─────────────┬─────────────────┬────────────────╮
-              &kp ESC      &kp Q         &kp W         &kp E         &th R T         XXX          XXX          &kp UP        XXX                XXX
+              &kp ESC      &kp Q         &kp W         &kp E         &th T R           XXX          XXX          &kp UP        XXX                XXX
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────────┼────────────────┤
-              &kp LCTRL    &kp A         &kp S         &kp D         &th F G         XXX          &kp LEFT      &kp DOWN      &kp RIGHT         &kp ENTER
+              &kp LCTRL    &kp A         &kp S         &kp D         &th G F           XXX          &kp LEFT      &kp DOWN      &kp RIGHT         &kp ENTER
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────────┼────────────────┤
-              &kp LSHIFT   &kp Z         &kp X         &kp C         &th V B         XXX          XXX           XXX           XXX               XXX
+              &kp LSHIFT   &kp Z         &kp X         &kp C         &th B V           XXX          XXX           XXX           XXX               XXX
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────────┴────────────────╯
                                                         XXX          &kp LALT          &kp SPACE     &to BASE
         //                                           ╰─────────────┴─────────────╯   ╰─────────────┴─────────────╯
