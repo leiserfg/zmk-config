@@ -184,9 +184,9 @@
       label = "NAV";
       bindings = <
         // ╭─────────────┬─────────────┬─────────────┬─────────────┬─────────────╮   ╭─────────────┬─────────────┬─────────────┬─────────────┬────────────────╮
-             &kp TAB       &kp C_PREV    &kp C_NEXT    &kp C_PLAY    &kp C_VOL_UP      &srst         &kp HOME      &kp UP        &kp END       &kp BSPC
+             &kp TAB       &kp C_PREV    &kp C_NEXT    &kp C_PLAY    &kp C_VOL_UP      &srst         &kp HOME      &caps_word    &kp END       &kp BSPC
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼────────────────┤
-             SK(LCTRL)     SK(LALT)      SK(LSHIFT)    SK(LGUI)      &kp C_VOL_DN      &caps_word    &kp LEFT      &kp DOWN      &kp RIGHT     &kp ENTER
+             SK(LCTRL)     SK(LALT)      SK(LSHIFT)    SK(LGUI)      &kp C_VOL_DN      &kp LEFT       &kp UP       &kp DOWN      &kp RIGHT     &kp ENTER
         // ├─────────────┼─────────────┼─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┼─────────────┼────────────────┤
              &bt BT_SEL 0  &bt BT_PRV    &bt BT_NXT    &bt BT_CLR    &to GAMING        XXX           &kp PG_UP     &kp PG_DN     XXX           &kp DEL
         // ╰─────────────┴─────────────┴─────────────┼─────────────┼─────────────┤   ├─────────────┼─────────────┼─────────────┴─────────────┴────────────────╯

@@ -40,38 +40,38 @@ def press(key):
 
 
 colemakdh = {
-        "left": [
-            ["q", "w", "f", "p", "b"],
-            ["a", "r", "s", "t", "g"],
-            ["z", "x", "c", "d", "v"],
-        ],
-        "right": [
-            ["j", "l", "u", "y", "'"],
-            ["m", "n", "e", "i", "o"],
-            ["k", "h", ",", ".", ";"],
-        ],
-        "thumbs": {
-            "left": ["nav", "shift"],
-            "right": ["space", "sym"],
-        }
-    }
+    "left": [
+        ["q", "w", "f", "p", "b"],
+        ["a", "r", "s", "t", "g"],
+        ["z", "x", "c", "d", "v"],
+    ],
+    "right": [
+        ["j", "l", "u", "y", "'"],
+        ["m", "n", "e", "i", "o"],
+        ["k", "h", ",", ".", ";"],
+    ],
+    "thumbs": {
+        "left": ["nav", "shift"],
+        "right": ["space", "sym"],
+    },
+}
 
-querty =   {
-        "left": [
-            ["q", "w", "e", "r", "t"],
-            ["a", "s", "d", "f", "g"],
-            ["z", "x", "c", "v", "b"],
-        ],
-        "right": [
-            ["y", "u", "i", "o", "p"],
-            ["h", "j", "k", "l", "'"],
-            ["k", "h", ",", ".", ";"],
-        ],
-        "thumbs": {
-            "left": ["nav", "shift"],
-            "right": ["space", "sym"],
-        },
-    }
+querty = {
+    "left": [
+        ["q", "w", "e", "r", "t"],
+        ["a", "s", "d", "f", "g"],
+        ["z", "x", "c", "v", "b"],
+    ],
+    "right": [
+        ["y", "u", "i", "o", "p"],
+        ["h", "j", "k", "l", "'"],
+        ["k", "h", ",", ".", ";"],
+    ],
+    "thumbs": {
+        "left": ["nav", "shift"],
+        "right": ["space", "sym"],
+    },
+}
 
 KEYMAP = [
     colemakdh,
@@ -98,8 +98,8 @@ KEYMAP = [
             ["bt 0", "bt down", "bt up", "bt clear", press("gaming")],
         ],
         "right": [
-            ["reset", "home", "up", "end", "bspc"],
-            ["caps lock", "left", "down", "right", "enter"],
+            ["reset", "home", "caps word", "end", "bspc"],
+            ["up", "left", "down", "right", "enter"],
             ["", "page down", "page up", "", "del"],
         ],
         "thumbs": {
@@ -139,7 +139,6 @@ KEYMAP = [
             "right": ["space", press("base")],
         },
     },
-
     {
         "left": [
             ["esc", "1", "2", "3", "4"],
