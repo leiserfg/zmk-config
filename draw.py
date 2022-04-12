@@ -99,7 +99,7 @@ KEYMAP = [
         ],
         "right": [
             ["reset", "home", "caps word", "end", "bspc"],
-            ["up", "left", "down", "right", "enter"],
+            [ "left", "down", "up", "right", "enter"],
             ["", "page down", "page up", "", "del"],
         ],
         "thumbs": {

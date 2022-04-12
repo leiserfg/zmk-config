@@ -203,11 +203,11 @@
 <rect rx="6" ry="6" x="588.0" y="461.5" width="55" height="45" class="" />
 <text text-anchor="middle" dominant-baseline="middle" x="615.5" y="484.0">bspc</text>
 <rect rx="6" ry="6" x="352.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="533.0">up</text>
+<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="533.0">left</text>
 <rect rx="6" ry="6" x="411.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="533.0">left</text>
+<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="533.0">down</text>
 <rect rx="6" ry="6" x="470.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="533.0">down</text>
+<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="533.0">up</text>
 <rect rx="6" ry="6" x="529.0" y="510.5" width="55" height="45" class="" />
 <text text-anchor="middle" dominant-baseline="middle" x="556.5" y="533.0">right</text>
 <rect rx="6" ry="6" x="588.0" y="510.5" width="55" height="45" class="" />
