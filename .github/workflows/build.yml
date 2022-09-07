@@ -9,6 +9,8 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
+      - name: Generate keymap
+        run: ls ./config/
       - name: Checkout
         uses: actions/checkout@v2
       - name: Install yaml2json
