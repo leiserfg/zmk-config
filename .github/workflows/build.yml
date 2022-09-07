@@ -9,10 +9,10 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-      - name: Generate keymap
-        run: ls ./config/
       - name: Checkout
         uses: actions/checkout@v2
+      - name: Generate keymap
+        run: ls ./
       - name: Install yaml2json
         run: python3 -m pip install remarshal
       - id: set-matrix
