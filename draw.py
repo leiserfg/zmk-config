@@ -1,9 +1,8 @@
-KEY_W = 55
-KEY_H = 45
-KEY_RX = 6
-KEY_RY = 6
+KEY_W = 58
+KEY_H = 55
+KEY_RX = 10
 INNER_PAD_W = 2
-INNER_PAD_H = 2
+INNER_PAD_H = 4
 OUTER_PAD_W = KEY_W / 2
 OUTER_PAD_H = KEY_H / 2
 LINE_SPACING = 18
@@ -19,24 +18,23 @@ STYLE = """
 
     rect {
         fill: #f6f8fa;
+        stroke-width: 2;
+        stroke: black;
     }
 
-    .held {
-        fill: #fdd;
+    .black {
+        fill: black;
     }
 
-    .press {
-        fill: #dfd;
-    }
 """
 
 
 def held(key):
-    return {"key": key, "class": "held"}
+    return {"key": key, "type": "held"}
 
 
 def press(key):
-    return {"key": key, "class": "press"}
+    return {"key": key, "type": "press"}
 
 
 colemakdh = {
@@ -51,7 +49,7 @@ colemakdh = {
         ["k", "h", ",", ".", ";"],
     ],
     "thumbs": {
-        "left": ["nav", "shift"],
+        "left": ["nav", "shift ⌅"],
         "right": ["space", "sym"],
     },
 }
@@ -99,7 +97,7 @@ KEYMAP = [
         ],
         "right": [
             ["reset", "home", "caps word", "end", "bspc"],
-            [ "left", "down", "up", "right", "enter"],
+            ["left", "down", "up", "right", "enter"],
             ["", "page down", "page up", "", "del"],
         ],
         "thumbs": {
@@ -167,14 +165,23 @@ BOARD_W = LAYER_W + 2 * OUTER_PAD_W
 BOARD_H = LAYERS * LAYER_H + (LAYERS + 1) * OUTER_PAD_H
 
 
+def rect(x, y, klass):
+    return f'<rect rx="{KEY_RX}" x="{x + INNER_PAD_W}" y="{y + INNER_PAD_H}" width="{KEY_W}" height="{KEY_H}" class="{klass}" />'
+
+
 def print_key(x, y, key):
-    key_class = ""
+
+    klass = ""
     if type(key) is dict:
-        key_class = key["class"]
+        klass = key["type"]
         key = key["key"]
-    print(
-        f'<rect rx="{KEY_RX}" ry="{KEY_RY}" x="{x + INNER_PAD_W}" y="{y + INNER_PAD_H}" width="{KEY_W}" height="{KEY_H}" class="{key_class}" />'
-    )
+
+    if klass == "held":
+        y += 10
+    else:
+        print(rect(x, y + 10, "black"))
+
+    print(rect(x, y, klass))
     words = key.split()
     y += (KEYSPACE_H - (len(words) - 1) * LINE_SPACING) / 2
     for word in key.split():

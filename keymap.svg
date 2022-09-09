@@ -1,4 +1,4 @@
-<svg width="672.5" height="1333.5" viewBox="0 0 672.5 1333.5" xmlns="http://www.w3.org/2000/svg">
+<svg width="707.0" height="1704.5" viewBox="0 0 707.0 1704.5" xmlns="http://www.w3.org/2000/svg">
 <style>
     svg {
         font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
@@ -10,398 +10,596 @@
 
     rect {
         fill: #f6f8fa;
+        stroke-width: 2;
+        stroke: black;
     }
 
-    .held {
-        fill: #fdd;
+    .black {
+        fill: black;
     }
 
-    .press {
-        fill: #dfd;
-    }
 </style>
-<rect rx="6" ry="6" x="29.5" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="47.0">q</text>
-<rect rx="6" ry="6" x="88.5" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="47.0">w</text>
-<rect rx="6" ry="6" x="147.5" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="47.0">f</text>
-<rect rx="6" ry="6" x="206.5" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="47.0">p</text>
-<rect rx="6" ry="6" x="265.5" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="47.0">b</text>
-<rect rx="6" ry="6" x="29.5" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="96.0">a</text>
-<rect rx="6" ry="6" x="88.5" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="96.0">r</text>
-<rect rx="6" ry="6" x="147.5" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="96.0">s</text>
-<rect rx="6" ry="6" x="206.5" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="96.0">t</text>
-<rect rx="6" ry="6" x="265.5" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="96.0">g</text>
-<rect rx="6" ry="6" x="29.5" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="145.0">z</text>
-<rect rx="6" ry="6" x="88.5" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="145.0">x</text>
-<rect rx="6" ry="6" x="147.5" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="145.0">c</text>
-<rect rx="6" ry="6" x="206.5" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="145.0">d</text>
-<rect rx="6" ry="6" x="265.5" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="145.0">v</text>
-<rect rx="6" ry="6" x="352.0" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="47.0">j</text>
-<rect rx="6" ry="6" x="411.0" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="47.0">l</text>
-<rect rx="6" ry="6" x="470.0" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="47.0">u</text>
-<rect rx="6" ry="6" x="529.0" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="47.0">y</text>
-<rect rx="6" ry="6" x="588.0" y="24.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="47.0">'</text>
-<rect rx="6" ry="6" x="352.0" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="96.0">m</text>
-<rect rx="6" ry="6" x="411.0" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="96.0">n</text>
-<rect rx="6" ry="6" x="470.0" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="96.0">e</text>
-<rect rx="6" ry="6" x="529.0" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="96.0">i</text>
-<rect rx="6" ry="6" x="588.0" y="73.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="96.0">o</text>
-<rect rx="6" ry="6" x="352.0" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="145.0">k</text>
-<rect rx="6" ry="6" x="411.0" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="145.0">h</text>
-<rect rx="6" ry="6" x="470.0" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="145.0">,</text>
-<rect rx="6" ry="6" x="529.0" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="145.0">.</text>
-<rect rx="6" ry="6" x="588.0" y="122.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="145.0">;</text>
-<rect rx="6" ry="6" x="206.5" y="171.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="194.0">nav</text>
-<rect rx="6" ry="6" x="265.5" y="171.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="194.0">shift</text>
-<rect rx="6" ry="6" x="352.0" y="171.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="194.0">space</text>
-<rect rx="6" ry="6" x="411.0" y="171.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="194.0">sym</text>
-<rect rx="6" ry="6" x="29.5" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="265.5">esc</text>
-<rect rx="6" ry="6" x="88.5" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="265.5">[</text>
-<rect rx="6" ry="6" x="147.5" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="265.5">{</text>
-<rect rx="6" ry="6" x="206.5" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="265.5">(</text>
-<rect rx="6" ry="6" x="265.5" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="265.5">~</text>
-<rect rx="6" ry="6" x="29.5" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="314.5">-</text>
-<rect rx="6" ry="6" x="88.5" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="314.5">*</text>
-<rect rx="6" ry="6" x="147.5" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="314.5">=</text>
-<rect rx="6" ry="6" x="206.5" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="314.5">_</text>
-<rect rx="6" ry="6" x="265.5" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="314.5">$</text>
-<rect rx="6" ry="6" x="29.5" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="363.5">+</text>
-<rect rx="6" ry="6" x="88.5" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="363.5">|</text>
-<rect rx="6" ry="6" x="147.5" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="363.5">@</text>
-<rect rx="6" ry="6" x="206.5" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="363.5">/</text>
-<rect rx="6" ry="6" x="265.5" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="363.5">%</text>
-<rect rx="6" ry="6" x="352.0" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="265.5">^</text>
-<rect rx="6" ry="6" x="411.0" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="265.5">)</text>
-<rect rx="6" ry="6" x="470.0" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="265.5">}</text>
-<rect rx="6" ry="6" x="529.0" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="265.5">]</text>
-<rect rx="6" ry="6" x="588.0" y="243.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="265.5">`</text>
-<rect rx="6" ry="6" x="352.0" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="314.5">#</text>
-<rect rx="6" ry="6" x="411.0" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="314.5">gui</text>
-<rect rx="6" ry="6" x="470.0" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="314.5">shift</text>
-<rect rx="6" ry="6" x="529.0" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="314.5">alt</text>
-<rect rx="6" ry="6" x="588.0" y="292.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="314.5">ctrl</text>
-<rect rx="6" ry="6" x="352.0" y="341.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="363.5">\</text>
-<rect rx="6" ry="6" x="470.0" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="363.5">&amp;</text>
-<rect rx="6" ry="6" x="529.0" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="363.5">?</text>
-<rect rx="6" ry="6" x="588.0" y="341.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="363.5">!</text>
-<rect rx="6" ry="6" x="206.5" y="390.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="412.5">nav</text>
-<rect rx="6" ry="6" x="265.5" y="390.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="412.5">shift</text>
-<rect rx="6" ry="6" x="352.0" y="390.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="412.5">space</text>
-<rect rx="6" ry="6" x="411.0" y="390.0" width="55" height="45" class="held" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="412.5">sym</text>
-<rect rx="6" ry="6" x="29.5" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="484.0">tab</text>
-<rect rx="6" ry="6" x="88.5" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="484.0">prev</text>
-<rect rx="6" ry="6" x="147.5" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="484.0">next</text>
-<rect rx="6" ry="6" x="206.5" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="484.0">play</text>
-<rect rx="6" ry="6" x="265.5" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="475.0">vol</text>
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="493.0">up</text>
-<rect rx="6" ry="6" x="29.5" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="533.0">ctrl</text>
-<rect rx="6" ry="6" x="88.5" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="533.0">alt</text>
-<rect rx="6" ry="6" x="147.5" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="533.0">shift</text>
-<rect rx="6" ry="6" x="206.5" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="533.0">gui</text>
-<rect rx="6" ry="6" x="265.5" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="524.0">vol</text>
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="542.0">down</text>
-<rect rx="6" ry="6" x="29.5" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="573.0">bt</text>
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="591.0">0</text>
-<rect rx="6" ry="6" x="88.5" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="573.0">bt</text>
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="591.0">down</text>
-<rect rx="6" ry="6" x="147.5" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="573.0">bt</text>
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="591.0">up</text>
-<rect rx="6" ry="6" x="206.5" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="573.0">bt</text>
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="591.0">clear</text>
-<rect rx="6" ry="6" x="265.5" y="559.5" width="55" height="45" class="press" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="582.0">gaming</text>
-<rect rx="6" ry="6" x="352.0" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="484.0">reset</text>
-<rect rx="6" ry="6" x="411.0" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="484.0">home</text>
-<rect rx="6" ry="6" x="470.0" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="475.0">caps</text>
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="493.0">word</text>
-<rect rx="6" ry="6" x="529.0" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="484.0">end</text>
-<rect rx="6" ry="6" x="588.0" y="461.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="484.0">bspc</text>
-<rect rx="6" ry="6" x="352.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="533.0">left</text>
-<rect rx="6" ry="6" x="411.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="533.0">down</text>
-<rect rx="6" ry="6" x="470.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="533.0">up</text>
-<rect rx="6" ry="6" x="529.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="533.0">right</text>
-<rect rx="6" ry="6" x="588.0" y="510.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="533.0">enter</text>
-<rect rx="6" ry="6" x="352.0" y="559.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="573.0">page</text>
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="591.0">down</text>
-<rect rx="6" ry="6" x="470.0" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="573.0">page</text>
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="591.0">up</text>
-<rect rx="6" ry="6" x="529.0" y="559.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="588.0" y="559.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="582.0">del</text>
-<rect rx="6" ry="6" x="206.5" y="608.5" width="55" height="45" class="held" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="631.0">nav</text>
-<rect rx="6" ry="6" x="265.5" y="608.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="631.0">shift</text>
-<rect rx="6" ry="6" x="352.0" y="608.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="631.0">space</text>
-<rect rx="6" ry="6" x="411.0" y="608.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="631.0">sym</text>
-<rect rx="6" ry="6" x="29.5" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="702.5">1</text>
-<rect rx="6" ry="6" x="88.5" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="702.5">2</text>
-<rect rx="6" ry="6" x="147.5" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="702.5">3</text>
-<rect rx="6" ry="6" x="206.5" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="702.5">4</text>
-<rect rx="6" ry="6" x="265.5" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="702.5">5</text>
-<rect rx="6" ry="6" x="29.5" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="751.5">ctrl</text>
-<rect rx="6" ry="6" x="88.5" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="751.5">alt</text>
-<rect rx="6" ry="6" x="147.5" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="751.5">shift</text>
-<rect rx="6" ry="6" x="206.5" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="751.5">gui</text>
-<rect rx="6" ry="6" x="265.5" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="751.5">F11</text>
-<rect rx="6" ry="6" x="29.5" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="800.5">F1</text>
-<rect rx="6" ry="6" x="88.5" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="800.5">F2</text>
-<rect rx="6" ry="6" x="147.5" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="800.5">F3</text>
-<rect rx="6" ry="6" x="206.5" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="800.5">F4</text>
-<rect rx="6" ry="6" x="265.5" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="800.5">F5</text>
-<rect rx="6" ry="6" x="352.0" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="702.5">6</text>
-<rect rx="6" ry="6" x="411.0" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="702.5">7</text>
-<rect rx="6" ry="6" x="470.0" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="702.5">8</text>
-<rect rx="6" ry="6" x="529.0" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="702.5">9</text>
-<rect rx="6" ry="6" x="588.0" y="680.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="702.5">0</text>
-<rect rx="6" ry="6" x="352.0" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="751.5">F12</text>
-<rect rx="6" ry="6" x="411.0" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="751.5">gui</text>
-<rect rx="6" ry="6" x="470.0" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="751.5">shift</text>
-<rect rx="6" ry="6" x="529.0" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="751.5">alt</text>
-<rect rx="6" ry="6" x="588.0" y="729.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="751.5">ctrl</text>
-<rect rx="6" ry="6" x="352.0" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="800.5">F6</text>
-<rect rx="6" ry="6" x="411.0" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="800.5">F7</text>
-<rect rx="6" ry="6" x="470.0" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="800.5">F8</text>
-<rect rx="6" ry="6" x="529.0" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="800.5">F9</text>
-<rect rx="6" ry="6" x="588.0" y="778.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="615.5" y="800.5">F10</text>
-<rect rx="6" ry="6" x="206.5" y="827.0" width="55" height="45" class="held" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="849.5">nav</text>
-<rect rx="6" ry="6" x="265.5" y="827.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="849.5">shift</text>
-<rect rx="6" ry="6" x="352.0" y="827.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="849.5">space</text>
-<rect rx="6" ry="6" x="411.0" y="827.0" width="55" height="45" class="held" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="849.5">sym</text>
-<rect rx="6" ry="6" x="29.5" y="898.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="921.0">esc</text>
-<rect rx="6" ry="6" x="88.5" y="898.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="921.0">q</text>
-<rect rx="6" ry="6" x="147.5" y="898.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="921.0">w</text>
-<rect rx="6" ry="6" x="206.5" y="898.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="921.0">e</text>
-<rect rx="6" ry="6" x="265.5" y="898.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="921.0">r</text>
-<rect rx="6" ry="6" x="29.5" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="970.0">ctrl</text>
-<rect rx="6" ry="6" x="88.5" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="970.0">a</text>
-<rect rx="6" ry="6" x="147.5" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="970.0">s</text>
-<rect rx="6" ry="6" x="206.5" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="970.0">d</text>
-<rect rx="6" ry="6" x="265.5" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="970.0">f</text>
-<rect rx="6" ry="6" x="29.5" y="996.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="1019.0">shift</text>
-<rect rx="6" ry="6" x="88.5" y="996.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="1019.0">z</text>
-<rect rx="6" ry="6" x="147.5" y="996.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="1019.0">x</text>
-<rect rx="6" ry="6" x="206.5" y="996.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="1019.0">c</text>
-<rect rx="6" ry="6" x="265.5" y="996.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="1019.0">v</text>
-<rect rx="6" ry="6" x="352.0" y="898.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="898.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="470.0" y="898.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="921.0">up</text>
-<rect rx="6" ry="6" x="529.0" y="898.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="588.0" y="898.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="352.0" y="947.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="970.0">left</text>
-<rect rx="6" ry="6" x="470.0" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="970.0">down</text>
-<rect rx="6" ry="6" x="529.0" y="947.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="970.0">right</text>
-<rect rx="6" ry="6" x="588.0" y="947.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="352.0" y="996.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="996.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="470.0" y="996.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="529.0" y="996.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="588.0" y="996.5" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="206.5" y="1045.5" width="55" height="45" class="held" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="1068.0">gnum</text>
-<rect rx="6" ry="6" x="265.5" y="1045.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="1068.0">alt</text>
-<rect rx="6" ry="6" x="352.0" y="1045.5" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="1068.0">space</text>
-<rect rx="6" ry="6" x="411.0" y="1045.5" width="55" height="45" class="press" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="1068.0">base</text>
-<rect rx="6" ry="6" x="29.5" y="1117.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="1139.5">esc</text>
-<rect rx="6" ry="6" x="88.5" y="1117.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="116.0" y="1139.5">1</text>
-<rect rx="6" ry="6" x="147.5" y="1117.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="175.0" y="1139.5">2</text>
-<rect rx="6" ry="6" x="206.5" y="1117.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="1139.5">3</text>
-<rect rx="6" ry="6" x="265.5" y="1117.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="1139.5">4</text>
-<rect rx="6" ry="6" x="29.5" y="1166.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="1188.5">ctrl</text>
-<rect rx="6" ry="6" x="88.5" y="1166.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="147.5" y="1166.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="206.5" y="1166.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="265.5" y="1166.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="29.5" y="1215.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="57.0" y="1237.5">shift</text>
-<rect rx="6" ry="6" x="88.5" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="147.5" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="206.5" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="265.5" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="352.0" y="1117.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="1117.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="470.0" y="1117.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="1139.5">up</text>
-<rect rx="6" ry="6" x="529.0" y="1117.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="588.0" y="1117.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="352.0" y="1166.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="1166.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="1188.5">left</text>
-<rect rx="6" ry="6" x="470.0" y="1166.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="497.5" y="1188.5">down</text>
-<rect rx="6" ry="6" x="529.0" y="1166.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="556.5" y="1188.5">right</text>
-<rect rx="6" ry="6" x="588.0" y="1166.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="352.0" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="411.0" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="470.0" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="529.0" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="588.0" y="1215.0" width="55" height="45" class="" />
-<rect rx="6" ry="6" x="206.5" y="1264.0" width="55" height="45" class="held" />
-<text text-anchor="middle" dominant-baseline="middle" x="234.0" y="1286.5">gnum</text>
-<rect rx="6" ry="6" x="265.5" y="1264.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="293.0" y="1286.5">alt</text>
-<rect rx="6" ry="6" x="352.0" y="1264.0" width="55" height="45" class="" />
-<text text-anchor="middle" dominant-baseline="middle" x="379.5" y="1286.5">space</text>
-<rect rx="6" ry="6" x="411.0" y="1264.0" width="55" height="45" class="press" />
-<text text-anchor="middle" dominant-baseline="middle" x="438.5" y="1286.5">base</text>
+<rect rx="10" x="31.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="59.0">q</text>
+<rect rx="10" x="93.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="59.0">w</text>
+<rect rx="10" x="155.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="59.0">f</text>
+<rect rx="10" x="217.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="59.0">p</text>
+<rect rx="10" x="279.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="59.0">b</text>
+<rect rx="10" x="31.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="122.0">a</text>
+<rect rx="10" x="93.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="122.0">r</text>
+<rect rx="10" x="155.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="122.0">s</text>
+<rect rx="10" x="217.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="122.0">t</text>
+<rect rx="10" x="279.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="122.0">g</text>
+<rect rx="10" x="31.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="185.0">z</text>
+<rect rx="10" x="93.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="185.0">x</text>
+<rect rx="10" x="155.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="185.0">c</text>
+<rect rx="10" x="217.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="185.0">d</text>
+<rect rx="10" x="279.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="185.0">v</text>
+<rect rx="10" x="370.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="59.0">j</text>
+<rect rx="10" x="432.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="59.0">l</text>
+<rect rx="10" x="494.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="59.0">u</text>
+<rect rx="10" x="556.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="59.0">y</text>
+<rect rx="10" x="618.0" y="41.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="31.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="59.0">'</text>
+<rect rx="10" x="370.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="122.0">m</text>
+<rect rx="10" x="432.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="122.0">n</text>
+<rect rx="10" x="494.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="122.0">e</text>
+<rect rx="10" x="556.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="122.0">i</text>
+<rect rx="10" x="618.0" y="104.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="94.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="122.0">o</text>
+<rect rx="10" x="370.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="185.0">k</text>
+<rect rx="10" x="432.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="185.0">h</text>
+<rect rx="10" x="494.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="185.0">,</text>
+<rect rx="10" x="556.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="185.0">.</text>
+<rect rx="10" x="618.0" y="167.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="157.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="185.0">;</text>
+<rect rx="10" x="217.0" y="230.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="220.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="248.0">nav</text>
+<rect rx="10" x="279.0" y="230.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="220.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="239.0">shift</text>
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="257.0">⌅</text>
+<rect rx="10" x="370.0" y="230.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="220.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="248.0">space</text>
+<rect rx="10" x="432.0" y="230.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="220.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="248.0">sym</text>
+<rect rx="10" x="31.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="338.5">esc</text>
+<rect rx="10" x="93.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="338.5">[</text>
+<rect rx="10" x="155.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="338.5">{</text>
+<rect rx="10" x="217.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="338.5">(</text>
+<rect rx="10" x="279.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="338.5">~</text>
+<rect rx="10" x="31.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="401.5">-</text>
+<rect rx="10" x="93.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="401.5">*</text>
+<rect rx="10" x="155.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="401.5">=</text>
+<rect rx="10" x="217.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="401.5">_</text>
+<rect rx="10" x="279.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="401.5">$</text>
+<rect rx="10" x="31.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="464.5">+</text>
+<rect rx="10" x="93.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="464.5">|</text>
+<rect rx="10" x="155.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="464.5">@</text>
+<rect rx="10" x="217.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="464.5">/</text>
+<rect rx="10" x="279.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="464.5">%</text>
+<rect rx="10" x="370.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="338.5">^</text>
+<rect rx="10" x="432.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="338.5">)</text>
+<rect rx="10" x="494.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="338.5">}</text>
+<rect rx="10" x="556.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="338.5">]</text>
+<rect rx="10" x="618.0" y="321.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="311.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="338.5">`</text>
+<rect rx="10" x="370.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="401.5">#</text>
+<rect rx="10" x="432.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="401.5">gui</text>
+<rect rx="10" x="494.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="401.5">shift</text>
+<rect rx="10" x="556.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="401.5">alt</text>
+<rect rx="10" x="618.0" y="384.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="374.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="401.5">ctrl</text>
+<rect rx="10" x="370.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="437.0" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="464.5">\</text>
+<rect rx="10" x="494.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="464.5">&amp;</text>
+<rect rx="10" x="556.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="464.5">?</text>
+<rect rx="10" x="618.0" y="447.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="437.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="464.5">!</text>
+<rect rx="10" x="217.0" y="510.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="500.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="527.5">nav</text>
+<rect rx="10" x="279.0" y="510.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="500.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="527.5">shift</text>
+<rect rx="10" x="370.0" y="510.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="500.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="527.5">space</text>
+<rect rx="10" x="432.0" y="510.0" width="58" height="55" class="held" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="537.5">sym</text>
+<rect rx="10" x="31.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="618.0">tab</text>
+<rect rx="10" x="93.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="618.0">prev</text>
+<rect rx="10" x="155.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="618.0">next</text>
+<rect rx="10" x="217.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="618.0">play</text>
+<rect rx="10" x="279.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="609.0">vol</text>
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="627.0">up</text>
+<rect rx="10" x="31.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="681.0">ctrl</text>
+<rect rx="10" x="93.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="681.0">alt</text>
+<rect rx="10" x="155.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="681.0">shift</text>
+<rect rx="10" x="217.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="681.0">gui</text>
+<rect rx="10" x="279.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="672.0">vol</text>
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="690.0">down</text>
+<rect rx="10" x="31.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="735.0">bt</text>
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="753.0">0</text>
+<rect rx="10" x="93.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="735.0">bt</text>
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="753.0">down</text>
+<rect rx="10" x="155.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="735.0">bt</text>
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="753.0">up</text>
+<rect rx="10" x="217.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="735.0">bt</text>
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="753.0">clear</text>
+<rect rx="10" x="279.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="716.5" width="58" height="55" class="press" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="744.0">gaming</text>
+<rect rx="10" x="370.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="618.0">reset</text>
+<rect rx="10" x="432.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="618.0">home</text>
+<rect rx="10" x="494.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="609.0">caps</text>
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="627.0">word</text>
+<rect rx="10" x="556.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="618.0">end</text>
+<rect rx="10" x="618.0" y="600.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="590.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="618.0">bspc</text>
+<rect rx="10" x="370.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="681.0">left</text>
+<rect rx="10" x="432.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="681.0">down</text>
+<rect rx="10" x="494.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="681.0">up</text>
+<rect rx="10" x="556.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="681.0">right</text>
+<rect rx="10" x="618.0" y="663.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="653.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="681.0">enter</text>
+<rect rx="10" x="370.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="716.5" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="735.0">page</text>
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="753.0">down</text>
+<rect rx="10" x="494.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="735.0">page</text>
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="753.0">up</text>
+<rect rx="10" x="556.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="716.5" width="58" height="55" class="" />
+<rect rx="10" x="618.0" y="726.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="716.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="744.0">del</text>
+<rect rx="10" x="217.0" y="789.5" width="58" height="55" class="held" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="817.0">nav</text>
+<rect rx="10" x="279.0" y="789.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="779.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="807.0">shift</text>
+<rect rx="10" x="370.0" y="789.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="779.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="807.0">space</text>
+<rect rx="10" x="432.0" y="789.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="779.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="807.0">sym</text>
+<rect rx="10" x="31.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="897.5">1</text>
+<rect rx="10" x="93.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="897.5">2</text>
+<rect rx="10" x="155.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="897.5">3</text>
+<rect rx="10" x="217.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="897.5">4</text>
+<rect rx="10" x="279.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="897.5">5</text>
+<rect rx="10" x="31.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="960.5">ctrl</text>
+<rect rx="10" x="93.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="960.5">alt</text>
+<rect rx="10" x="155.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="960.5">shift</text>
+<rect rx="10" x="217.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="960.5">gui</text>
+<rect rx="10" x="279.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="960.5">F11</text>
+<rect rx="10" x="31.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1023.5">F1</text>
+<rect rx="10" x="93.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="1023.5">F2</text>
+<rect rx="10" x="155.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="1023.5">F3</text>
+<rect rx="10" x="217.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1023.5">F4</text>
+<rect rx="10" x="279.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1023.5">F5</text>
+<rect rx="10" x="370.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="897.5">6</text>
+<rect rx="10" x="432.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="897.5">7</text>
+<rect rx="10" x="494.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="897.5">8</text>
+<rect rx="10" x="556.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="897.5">9</text>
+<rect rx="10" x="618.0" y="880.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="870.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="897.5">0</text>
+<rect rx="10" x="370.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="960.5">F12</text>
+<rect rx="10" x="432.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="960.5">gui</text>
+<rect rx="10" x="494.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="960.5">shift</text>
+<rect rx="10" x="556.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="960.5">alt</text>
+<rect rx="10" x="618.0" y="943.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="933.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="960.5">ctrl</text>
+<rect rx="10" x="370.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="1023.5">F6</text>
+<rect rx="10" x="432.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="1023.5">F7</text>
+<rect rx="10" x="494.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="1023.5">F8</text>
+<rect rx="10" x="556.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="1023.5">F9</text>
+<rect rx="10" x="618.0" y="1006.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="996.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="647.0" y="1023.5">F10</text>
+<rect rx="10" x="217.0" y="1069.0" width="58" height="55" class="held" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1096.5">nav</text>
+<rect rx="10" x="279.0" y="1069.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1059.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1086.5">shift</text>
+<rect rx="10" x="370.0" y="1069.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1059.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="1086.5">space</text>
+<rect rx="10" x="432.0" y="1069.0" width="58" height="55" class="held" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="1096.5">sym</text>
+<rect rx="10" x="31.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="1149.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1177.0">esc</text>
+<rect rx="10" x="93.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="1149.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="1177.0">q</text>
+<rect rx="10" x="155.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="1149.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="1177.0">w</text>
+<rect rx="10" x="217.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="1149.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1177.0">e</text>
+<rect rx="10" x="279.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1149.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1177.0">r</text>
+<rect rx="10" x="31.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1240.0">ctrl</text>
+<rect rx="10" x="93.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="1240.0">a</text>
+<rect rx="10" x="155.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="1240.0">s</text>
+<rect rx="10" x="217.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1240.0">d</text>
+<rect rx="10" x="279.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1240.0">f</text>
+<rect rx="10" x="31.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="1275.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1303.0">shift</text>
+<rect rx="10" x="93.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="1275.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="1303.0">z</text>
+<rect rx="10" x="155.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="1275.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="1303.0">x</text>
+<rect rx="10" x="217.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="1275.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1303.0">c</text>
+<rect rx="10" x="279.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1275.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1303.0">v</text>
+<rect rx="10" x="370.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1149.5" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1149.5" width="58" height="55" class="" />
+<rect rx="10" x="494.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="1149.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="1177.0">up</text>
+<rect rx="10" x="556.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="1149.5" width="58" height="55" class="" />
+<rect rx="10" x="618.0" y="1159.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="1149.5" width="58" height="55" class="" />
+<rect rx="10" x="370.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1212.5" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="1240.0">left</text>
+<rect rx="10" x="494.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="1240.0">down</text>
+<rect rx="10" x="556.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="1212.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="1240.0">right</text>
+<rect rx="10" x="618.0" y="1222.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="1212.5" width="58" height="55" class="" />
+<rect rx="10" x="370.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1275.5" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1275.5" width="58" height="55" class="" />
+<rect rx="10" x="494.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="1275.5" width="58" height="55" class="" />
+<rect rx="10" x="556.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="1275.5" width="58" height="55" class="" />
+<rect rx="10" x="618.0" y="1285.5" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="1275.5" width="58" height="55" class="" />
+<rect rx="10" x="217.0" y="1348.5" width="58" height="55" class="held" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1376.0">gnum</text>
+<rect rx="10" x="279.0" y="1348.5" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1338.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1366.0">alt</text>
+<rect rx="10" x="370.0" y="1348.5" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1338.5" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="1366.0">space</text>
+<rect rx="10" x="432.0" y="1348.5" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1338.5" width="58" height="55" class="press" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="1366.0">base</text>
+<rect rx="10" x="31.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="1429.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1456.5">esc</text>
+<rect rx="10" x="93.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="1429.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="122.0" y="1456.5">1</text>
+<rect rx="10" x="155.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="1429.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="184.0" y="1456.5">2</text>
+<rect rx="10" x="217.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="1429.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1456.5">3</text>
+<rect rx="10" x="279.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1429.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1456.5">4</text>
+<rect rx="10" x="31.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="1492.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1519.5">ctrl</text>
+<rect rx="10" x="93.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="1492.0" width="58" height="55" class="" />
+<rect rx="10" x="155.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="1492.0" width="58" height="55" class="" />
+<rect rx="10" x="217.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="1492.0" width="58" height="55" class="" />
+<rect rx="10" x="279.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1492.0" width="58" height="55" class="" />
+<rect rx="10" x="31.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="31.0" y="1555.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="60.0" y="1582.5">shift</text>
+<rect rx="10" x="93.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="93.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="155.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="155.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="217.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="217.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="279.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="370.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1429.0" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1429.0" width="58" height="55" class="" />
+<rect rx="10" x="494.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="1429.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="1456.5">up</text>
+<rect rx="10" x="556.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="1429.0" width="58" height="55" class="" />
+<rect rx="10" x="618.0" y="1439.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="1429.0" width="58" height="55" class="" />
+<rect rx="10" x="370.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1492.0" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1492.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="1519.5">left</text>
+<rect rx="10" x="494.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="1492.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="523.0" y="1519.5">down</text>
+<rect rx="10" x="556.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="1492.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="585.0" y="1519.5">right</text>
+<rect rx="10" x="618.0" y="1502.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="1492.0" width="58" height="55" class="" />
+<rect rx="10" x="370.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="432.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="494.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="494.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="556.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="556.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="618.0" y="1565.0" width="58" height="55" class="black" />
+<rect rx="10" x="618.0" y="1555.0" width="58" height="55" class="" />
+<rect rx="10" x="217.0" y="1628.0" width="58" height="55" class="held" />
+<text text-anchor="middle" dominant-baseline="middle" x="246.0" y="1655.5">gnum</text>
+<rect rx="10" x="279.0" y="1628.0" width="58" height="55" class="black" />
+<rect rx="10" x="279.0" y="1618.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="308.0" y="1645.5">alt</text>
+<rect rx="10" x="370.0" y="1628.0" width="58" height="55" class="black" />
+<rect rx="10" x="370.0" y="1618.0" width="58" height="55" class="" />
+<text text-anchor="middle" dominant-baseline="middle" x="399.0" y="1645.5">space</text>
+<rect rx="10" x="432.0" y="1628.0" width="58" height="55" class="black" />
+<rect rx="10" x="432.0" y="1618.0" width="58" height="55" class="press" />
+<text text-anchor="middle" dominant-baseline="middle" x="461.0" y="1645.5">base</text>
 </svg>
