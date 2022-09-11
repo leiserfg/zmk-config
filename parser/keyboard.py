@@ -3,6 +3,7 @@ from functools import cached_property
 
 _code_to_text = {
     "space": "␣",
+    "hash": "#",
     "bslh": "\\",
     "fslh": "/",
     "dollar": "$",
@@ -27,7 +28,7 @@ _code_to_text = {
     "lctrl": "ctrl",
     "rctrl": "ctrl",
     "lalt": "alt",
-    "ralt": "alt",
+    "ralt": "altgr",
     "lgui": "❖",
     "rgui": "❖",
     "enter": "↵",
@@ -58,15 +59,15 @@ _code_to_text = {
     "bt_clr": "⎚",
     "c_vol_dn": "▆▄▁",
     "c_vol_up": "▁▄▆",
-    "c_prev" :"⏮",
-    "c_next" :"⏭",
-    "c_play" :"▶",
+    "c_prev": "⏮",
+    "c_next": "⏭",
+    "c_play": "▶",
 } | {f"n{n}": str(n) for n in range(10)}
 
 
 def code_to_text(code):
     code = str(code).lower()
-    return _code_to_text.get(code, code)
+    return _code_to_text.get(code, code.upper())
 
 
 @dataclass(slots=True)
