@@ -9,10 +9,6 @@ LINE_SPACING = 18
 
 STYLE = """
     svg {
-        font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-        font-size: 14px;
-        font-kerning: normal;
-        text-rendering: optimizeLegibility;
         fill: #24292e;
     }
 
