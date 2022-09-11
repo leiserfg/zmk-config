@@ -154,19 +154,3 @@ class Painter:
         )
 
 
-def main():
-    from pathlib import Path
-
-    from parse import parse_keyboard, preprocess
-
-    _here = Path(__file__).parent
-
-    keyboard = (_here / "../zmk-config/config/cradio.keymap").absolute()
-    keyboard = parse_keyboard(preprocess(keyboard.read_text()))
-    layout = SplitLayout(3, 5, 2)
-    painter = Painter(keyboard=keyboard, layout=layout)
-    print(painter.draw_keyboard())
-
-
-if __name__ == "__main__":
-    main()
