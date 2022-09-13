@@ -42,6 +42,7 @@ _code_to_text = {
     "lgui": "❖",
     "rgui": "❖",
     "enter": "↵",
+    "ret": "↵",
     "left": "🡰",
     "right": "🡲",
     "down": "🡳",
