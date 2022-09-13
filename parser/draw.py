@@ -54,7 +54,7 @@ class Painter:
             """
         )
         words = str(text).split()
-        line_spacing = h / 3
+        line_spacing = h / 3.5
         shift = (h - (len(words) - 1) * line_spacing) / 2
         texts = "\n".join(
             self._text(

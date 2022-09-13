@@ -1,684 +1,556 @@
- <svg  width="609.0"  height="1650"  viewBox="0 0 609.0 1650"  xmlns="http://www.w3.org/2000/svg"  style="  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;  font-size: 15.583333333333334px;  font-kerning: normal;  text-rendering: optimizeLegibility;">
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="27.5" >DH</text>/n <rect x="0.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
+ <svg  width="609.0"  height="1375"  viewBox="0 0 609.0 1375"  xmlns="http://www.w3.org/2000/svg"  style="  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;  font-size: 15.583333333333334px;  font-kerning: normal;  text-rendering: optimizeLegibility;">
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="27.5" >default</text>/n <rect x="0.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="78.375" >Q</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="78.375" >Q</text>
  <rect x="58.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="78.375" >W</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="78.375" >W</text>
  <rect x="116.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="78.375" >F</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="78.375" >F</text>
  <rect x="174.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="78.375" >P</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="78.375" >P</text>
  <rect x="232.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="78.375" >B</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="78.375" >G</text>
  <rect x="319.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="78.375" >J</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="78.375" >J</text>
  <rect x="377.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="78.375" >L</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="78.375" >L</text>
  <rect x="435.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="78.375" >U</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="78.375" >U</text>
  <rect x="493.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="78.375" >Y</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="78.375" >Y</text>
  <rect x="551.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="78.375" >'</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="580.0" y="78.375" >SCLN</text>
  <rect x="0.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="133.375" >A</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="120.01785714285714" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="146.73214285714286" >A</text>
  <rect x="58.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="133.375" >R</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="120.01785714285714" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="146.73214285714286" >R</text>
  <rect x="116.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="133.375" >S</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="120.01785714285714" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="146.73214285714286" >S</text>
  <rect x="174.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="133.375" >T</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="120.01785714285714" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="146.73214285714286" >T</text>
  <rect x="232.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="133.375" >G</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="120.01785714285714" >g+a+s+ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="146.73214285714286" >D</text>
  <rect x="319.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="133.375" >M</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="120.01785714285714" >g+a+s+ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="146.73214285714286" >H</text>
  <rect x="377.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="133.375" >N</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="120.01785714285714" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="146.73214285714286" >N</text>
  <rect x="435.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="133.375" >E</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="120.01785714285714" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="146.73214285714286" >E</text>
  <rect x="493.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="133.375" >I</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="120.01785714285714" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="146.73214285714286" >I</text>
  <rect x="551.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="133.375" >O</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="580.0" y="120.01785714285714" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="580.0" y="133.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="580.0" y="146.73214285714286" >O</text>
  <rect x="0.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="188.375" >Z</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="188.375" >Z</text>
  <rect x="58.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="188.375" >X</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="188.375" >X</text>
  <rect x="116.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="188.375" >C</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="188.375" >C</text>
  <rect x="174.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="188.375" >D</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="188.375" >V</text>
  <rect x="232.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="188.375" >V</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="188.375" >B</text>
  <rect x="319.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="188.375" >K</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="188.375" >K</text>
  <rect x="377.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="188.375" >H</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="188.375" >M</text>
  <rect x="435.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="188.375" >,</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="188.375" >CMMA</text>
  <rect x="493.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="188.375" >.</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="188.375" >.</text>
  <rect x="551.0" y="173.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="165" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="188.375" >;</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="580.0" y="188.375" >/</text>
  <rect x="174.0" y="228.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="220" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="227.79166666666666" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="243.375" >2</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="258.9583333333333" >F24</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="243.375" >⇥</text>
  <rect x="232.0" y="228.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="220" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="235.58333333333334" >skq</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="251.16666666666669" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="243.375" >SPC</text>
  <rect x="319.0" y="228.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="220" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="243.375" >␣</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="243.375" >RET</text>
  <rect x="377.0" y="228.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="220" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="227.79166666666666" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="243.375" >1</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="258.9583333333333" >F24</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="302.5" >SYM</text>/n <rect x="0.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="243.375" >⌫</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="302.5" >nav_layer</text>/n <rect x="0.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="353.375" >⎋</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="346.69642857142856" >bt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="360.0535714285714" >⎚</text>
  <rect x="58.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="353.375" >[</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="353.375" >W</text>
  <rect x="116.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="353.375" >{</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="353.375" >F</text>
  <rect x="174.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="353.375" >(</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="353.375" >bootloader</text>
  <rect x="232.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="353.375" >~</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="353.375" >reset</text>
  <rect x="319.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="353.375" >^</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="353.375" >J</text>
  <rect x="377.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="353.375" >)</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="353.375" >{</text>
  <rect x="435.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="353.375" >}</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="353.375" >}</text>
  <rect x="493.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="353.375" >]</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="353.375" >(</text>
  <rect x="551.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="353.375" >`</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="580.0" y="353.375" >)</text>
  <rect x="0.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="408.375" >-</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="395.01785714285717" >bt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="408.375" >sel</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="421.7321428571429" >0</text>
  <rect x="58.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="408.375" >*</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="395.01785714285717" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="408.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="421.7321428571429" >R</text>
  <rect x="116.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="408.375" >=</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="395.01785714285717" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="408.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="421.7321428571429" >S</text>
  <rect x="174.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="408.375" >_</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="395.01785714285717" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="408.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="421.7321428571429" >T</text>
  <rect x="232.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="408.375" >$</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="395.01785714285717" >g+a+s+ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="408.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="421.7321428571429" >D</text>
  <rect x="319.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="408.375" >#</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="408.375" >🡰</text>
  <rect x="377.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="392.7916666666667" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="408.375" >❖</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="423.95833333333337" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="408.375" >🡳</text>
  <rect x="435.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="392.7916666666667" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="408.375" >shift</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="423.95833333333337" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="408.375" >🡱</text>
  <rect x="493.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="392.7916666666667" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="408.375" >alt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="423.95833333333337" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="408.375" >🡲</text>
  <rect x="551.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="392.7916666666667" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="408.375" >ctrl</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="423.95833333333337" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="395.01785714285717" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="408.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="421.7321428571429" >O</text>
  <rect x="0.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="463.375" >+</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="450.01785714285717" >bt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="463.375" >sel</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="476.7321428571429" >1</text>
  <rect x="58.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="463.375" >|</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="463.375" >X</text>
  <rect x="116.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="463.375" >@</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="463.375" >C</text>
  <rect x="174.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="463.375" >/</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="463.375" >V</text>
  <rect x="232.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="463.375" >%</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="463.375" >B</text>
  <rect x="319.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="463.375" >&amp;</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="463.375" >K</text>
  <rect x="377.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="463.375" >\</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="463.375" >[</text>
  <rect x="435.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="463.375" >;</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="463.375" >]</text>
  <rect x="493.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="463.375" >?</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="463.375" >.</text>
  <rect x="551.0" y="448.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="440" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="463.375" >!</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="463.375" >/</text>
  <rect x="174.0" y="503.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="495" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="502.7916666666667" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="518.375" >2</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="533.9583333333334" >F24</text>
- <rect x="232.0" y="503.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="232.0" y="495" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="510.5833333333333" >skq</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="526.1666666666666" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="518.375" >⇥</text>
+ <rect x="232.0" y="503.25" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="526.625" >SPC</text>
  <rect x="319.0" y="503.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="495" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="518.375" >␣</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="518.375" >RET</text>
  <rect x="377.0" y="503.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="495" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="502.7916666666667" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="518.375" >1</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="533.9583333333334" >F24</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="577.5" >NAV</text>/n <rect x="0.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="518.375" >⌫</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="577.5" >num_layer</text>/n <rect x="0.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="628.375" >⇥</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="621.6964285714286" >bt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="635.0535714285714" >⎚</text>
  <rect x="58.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="628.375" >⏮</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="628.375" >W</text>
  <rect x="116.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="628.375" >⏭</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="628.375" >F</text>
  <rect x="174.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="628.375" >▶</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="628.375" >bootloader</text>
  <rect x="232.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="628.375" >▁▄▆</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="628.375" >reset</text>
  <rect x="319.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="628.375" >srst</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="628.375" >J</text>
  <rect x="377.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="628.375" >⇱</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="628.375" >{</text>
  <rect x="435.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="628.375" >⇪</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="628.375" >}</text>
  <rect x="493.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="628.375" >⇲</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="628.375" >(</text>
  <rect x="551.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="628.375" >⌫</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="628.375" >)</text>
  <rect x="0.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="667.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="683.375" >ctrl</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="698.9583333333333" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="683.375" >'</text>
  <rect x="58.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="667.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="683.375" >alt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="698.9583333333333" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="670.0178571428571" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="683.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="696.7321428571428" >R</text>
  <rect x="116.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="667.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="683.375" >shift</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="698.9583333333333" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="670.0178571428571" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="683.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="696.7321428571428" >S</text>
  <rect x="174.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="667.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="683.375" >❖</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="698.9583333333333" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="670.0178571428571" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="683.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="696.7321428571428" >T</text>
  <rect x="232.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="683.375" >▆▄▁</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="683.375" >KP_EQUAL</text>
  <rect x="319.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="683.375" >🡰</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="683.375" >🡰</text>
  <rect x="377.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="683.375" >🡳</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="683.375" >🡳</text>
  <rect x="435.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="683.375" >🡱</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="683.375" >🡱</text>
  <rect x="493.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="683.375" >🡲</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="683.375" >🡲</text>
  <rect x="551.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="683.375" >↵</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="670.0178571428571" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="683.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="696.7321428571428" >O</text>
  <rect x="0.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="722.7916666666666" >bt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="738.375" >sel</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="753.9583333333333" >0</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="738.375" >`</text>
  <rect x="58.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="730.5833333333334" >bt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="746.1666666666667" >◄</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="738.375" >X</text>
  <rect x="116.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="730.5833333333334" >bt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="746.1666666666667" >►</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="738.375" >C</text>
  <rect x="174.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="730.5833333333334" >bt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="746.1666666666667" >⎚</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="738.375" >V</text>
  <rect x="232.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="730.5833333333334" >to</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="746.1666666666667" >GAMING</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="738.375" >\</text>
  <rect x="319.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="738.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="738.375" >K</text>
  <rect x="377.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="738.375" >⇞</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="738.375" >[</text>
  <rect x="435.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="738.375" >⇟</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="738.375" >]</text>
  <rect x="493.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="738.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="738.375" >.</text>
  <rect x="551.0" y="723.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="715" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="738.375" >⌦</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="738.375" >/</text>
  <rect x="174.0" y="778.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="770" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="777.7916666666666" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="793.375" >2</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="808.9583333333333" >F24</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="793.375" >⇥</text>
  <rect x="232.0" y="778.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="770" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="785.5833333333334" >skq</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="801.1666666666667" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="793.375" >SPC</text>
  <rect x="319.0" y="778.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="770" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="793.375" >␣</text>
- <rect x="377.0" y="778.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="377.0" y="770" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="777.7916666666666" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="793.375" >1</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="808.9583333333333" >F24</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="852.5" >NUM</text>/n <rect x="0.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="793.375" >RET</text>
+ <rect x="377.0" y="778.25" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="801.625" >⌫</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="852.5" >sym_layer</text>/n <rect x="0.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="903.375" >1</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="903.375" >s+Q</text>
  <rect x="58.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="903.375" >2</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="903.375" >s+Z</text>
  <rect x="116.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="903.375" >3</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="903.375" >*</text>
  <rect x="174.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="903.375" >4</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="903.375" >&amp;</text>
  <rect x="232.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="903.375" >5</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="903.375" >reset</text>
  <rect x="319.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="903.375" >6</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="903.375" >reset</text>
  <rect x="377.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="903.375" >7</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="903.375" >bootloader</text>
  <rect x="435.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="903.375" >8</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="903.375" >}</text>
  <rect x="493.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="903.375" >9</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="903.375" >(</text>
  <rect x="551.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="903.375" >0</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="903.375" >)</text>
  <rect x="0.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="958.375" >ctrl</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="973.9583333333333" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="958.375" >DQT</text>
  <rect x="58.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="958.375" >alt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="973.9583333333333" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="958.375" >^</text>
  <rect x="116.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="958.375" >shift</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="973.9583333333333" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="958.375" >PRCNT</text>
  <rect x="174.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="958.375" >❖</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="973.9583333333333" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="958.375" >DLLR</text>
  <rect x="232.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="958.375" >F11</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="958.375" >KP_PLUS</text>
  <rect x="319.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="958.375" >F12</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="958.375" >🡰</text>
  <rect x="377.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="958.375" >❖</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="973.9583333333333" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="958.375" >🡳</text>
  <rect x="435.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="958.375" >shift</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="973.9583333333333" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="958.375" >🡱</text>
  <rect x="493.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="958.375" >alt</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="973.9583333333333" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="958.375" >🡲</text>
  <rect x="551.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="942.7916666666666" >nk</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="958.375" >ctrl</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="973.9583333333333" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="945.0178571428571" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="958.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="971.7321428571428" >O</text>
  <rect x="0.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="1013.375" >F1</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1013.375" >~</text>
  <rect x="58.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="1013.375" >F2</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1013.375" >#</text>
  <rect x="116.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="1013.375" >F3</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="1013.375" >@</text>
  <rect x="174.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="1013.375" >F4</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="1013.375" >!</text>
  <rect x="232.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1013.375" >F5</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="1013.375" >|</text>
  <rect x="319.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="1013.375" >F6</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1013.375" >K</text>
  <rect x="377.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="1013.375" >F7</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="1013.375" >[</text>
  <rect x="435.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="1013.375" >F8</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="1013.375" >]</text>
  <rect x="493.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="1013.375" >F9</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="522.0" y="1013.375" >.</text>
  <rect x="551.0" y="998.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="990" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="1013.375" >F10</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1013.375" >/</text>
  <rect x="174.0" y="1053.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="1045" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="1052.7916666666667" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="1068.375" >2</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="1083.9583333333335" >F24</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="1068.375" >)</text>
  <rect x="232.0" y="1053.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1045" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1060.5833333333333" >skq</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1076.1666666666665" >shift</text>
- <rect x="319.0" y="1053.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="319.0" y="1045" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="1068.375" >␣</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="1068.375" >s+J</text>
+ <rect x="319.0" y="1053.25" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1076.625" >RET</text>
  <rect x="377.0" y="1053.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="1045" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1052.7916666666667" >mo_tap</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1068.375" >1</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1083.9583333333335" >F24</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="1127.5" >GAMING</text>/n <rect x="0.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="406.0" y="1068.375" >⌫</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="1127.5" >fun_layer</text>/n <rect x="0.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="1178.375" >⎋</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="1178.375" >s+Q</text>
  <rect x="58.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="1178.375" >Q</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="1178.375" >s+Z</text>
  <rect x="116.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="1178.375" >W</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="1178.375" >*</text>
  <rect x="174.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="1178.375" >E</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="1178.375" >&amp;</text>
  <rect x="232.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1162.7916666666667" >th</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1178.375" >T</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1193.9583333333335" >R</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1178.375" >reset</text>
  <rect x="319.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="1178.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1178.375" >reset</text>
  <rect x="377.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="1178.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1178.375" >7</text>
  <rect x="435.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="1178.375" >🡱</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="1178.375" >8</text>
  <rect x="493.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="1178.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="1178.375" >9</text>
  <rect x="551.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="1178.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1178.375" >)</text>
  <rect x="0.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="1233.375" >ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="1233.375" >DQT</text>
  <rect x="58.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="1233.375" >A</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="1233.375" >^</text>
  <rect x="116.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="1233.375" >S</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="1233.375" >PRCNT</text>
  <rect x="174.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="1233.375" >D</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="1233.375" >DLLR</text>
  <rect x="232.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1217.7916666666667" >th</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1233.375" >G</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1248.9583333333335" >F</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1233.375" >KP_PLUS</text>
  <rect x="319.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="1233.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1233.375" >🡰</text>
  <rect x="377.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="1233.375" >🡰</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1233.375" >4</text>
  <rect x="435.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="1233.375" >🡳</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="1233.375" >5</text>
  <rect x="493.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="1233.375" >🡲</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="1233.375" >6</text>
  <rect x="551.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="1233.375" >↵</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1220.017857142857" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1233.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1246.732142857143" >O</text>
  <rect x="0.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="29.0" y="1288.375" >shift</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="1288.375" >~</text>
  <rect x="58.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="1288.375" >Z</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="1288.375" >#</text>
  <rect x="116.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="1288.375" >X</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="1288.375" >@</text>
  <rect x="174.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="1288.375" >C</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="1288.375" >!</text>
  <rect x="232.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1272.7916666666667" >th</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1288.375" >B</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1303.9583333333335" >V</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1288.375" >|</text>
  <rect x="319.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="1288.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1288.375" >K</text>
  <rect x="377.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="1288.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1288.375" >1</text>
  <rect x="435.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="464.0" y="1288.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="464.0" y="1288.375" >2</text>
  <rect x="493.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="493.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="522.0" y="1288.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="522.0" y="1288.375" >3</text>
  <rect x="551.0" y="1273.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="551.0" y="1265" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="580.0" y="1288.375" >✗</text>
- <rect x="174.0" y="1328.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="174.0" y="1320" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="1343.375" >✗</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1288.375" >/</text>
+ <rect x="174.0" y="1328.25" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="1351.625" >)</text>
  <rect x="232.0" y="1328.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1320" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1343.375" >alt</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1343.375" >s+J</text>
  <rect x="319.0" y="1328.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="1320" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="348.0" y="1343.375" >␣</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1343.375" >RET</text>
  <rect x="377.0" y="1328.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="1320" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="1335.5833333333333" >to</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="406.0" y="1351.1666666666665" >DH</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="1402.5" >GAMING_NUMS</text>/n <rect x="0.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="0.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="29.0" y="1453.375" >⎋</text>
- <rect x="58.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="58.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="87.0" y="1453.375" >1</text>
- <rect x="116.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="116.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="145.0" y="1453.375" >2</text>
- <rect x="174.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="174.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="203.0" y="1453.375" >3</text>
- <rect x="232.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="232.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:15.583333333333334px" x="261.0" y="1453.375" >4</text>
- <rect x="319.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="319.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="1453.375" >✗</text>
- <rect x="377.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="377.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1453.375" >✗</text>
- <rect x="435.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="435.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="464.0" y="1453.375" >🡱</text>
- <rect x="493.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="493.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="522.0" y="1453.375" >✗</text>
- <rect x="551.0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="551.0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="580.0" y="1453.375" >✗</text>
- <rect x="0.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="0.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="29.0" y="1508.375" >ctrl</text>
- <rect x="58.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="58.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="87.0" y="1508.375" >A</text>
- <rect x="116.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="116.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="145.0" y="1508.375" >S</text>
- <rect x="174.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="174.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="1508.375" >D</text>
- <rect x="232.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="232.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1492.7916666666667" >th</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1508.375" >G</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1523.9583333333335" >F</text>
- <rect x="319.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="319.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="1508.375" >✗</text>
- <rect x="377.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="377.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1508.375" >🡰</text>
- <rect x="435.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="435.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="464.0" y="1508.375" >🡳</text>
- <rect x="493.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="493.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="522.0" y="1508.375" >🡲</text>
- <rect x="551.0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="551.0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="580.0" y="1508.375" >↵</text>
- <rect x="0.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="0.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="29.0" y="1563.375" >shift</text>
- <rect x="58.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="58.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="87.0" y="1563.375" >Z</text>
- <rect x="116.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="116.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="145.0" y="1563.375" >X</text>
- <rect x="174.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="174.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="1563.375" >C</text>
- <rect x="232.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="232.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1547.7916666666667" >th</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1563.375" >B</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1578.9583333333335" >V</text>
- <rect x="319.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="319.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="1563.375" >✗</text>
- <rect x="377.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="377.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1563.375" >✗</text>
- <rect x="435.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="435.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="464.0" y="1563.375" >✗</text>
- <rect x="493.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="493.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="522.0" y="1563.375" >✗</text>
- <rect x="551.0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="551.0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="580.0" y="1563.375" >✗</text>
- <rect x="174.0" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="174.0" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="203.0" y="1618.375" >✗</text>
- <rect x="232.0" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="232.0" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="261.0" y="1618.375" >alt</text>
- <rect x="319.0" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="319.0" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="348.0" y="1618.375" >␣</text>
- <rect x="377.0" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
- <rect x="377.0" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1610.5833333333333" >to</text>
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:15.583333333333334px" x="406.0" y="1626.1666666666665" >DH</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1343.375" >0</text>
 </svg>
