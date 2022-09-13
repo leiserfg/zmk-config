@@ -7,20 +7,29 @@ _code_to_text = {
     "bslh": "\\",
     "fslh": "/",
     "dollar": "$",
+    "dllr": "$",
     "amps": "&amp;",
     "tilde": "~",
     "excl": "!",
     "qmark": "?",
+    "pscrn": "□",
+    "printscreen": "□",
     "plus": "+",
+    "kp_plus": "+",
     "minus": "-",
     "pipe": "|",
     "star": "*",
     "under": "_",
     "equal": "=",
+    "kp_equal": "=",
     "percent": "%",
+    "prcnt": "%",
     "dot": ".",
     "comma": ",",
     "semi": ";",
+    "scln": ";",
+    "dqt": '"',
+    "double_quotes": '"',
     "semi": ";",
     "sqt": "'",
     "lshift": "shift",
@@ -68,6 +77,19 @@ _code_to_text = {
 def code_to_text(code):
     code = str(code).lower()
     return _code_to_text.get(code, code.upper())
+
+
+modifier_alias = {
+    "LCTRL": "c",
+    "RCTRL": "c",
+    "LALT": "a",
+    "RALT": "ra",
+    "LSHIFT": "s",
+    "RSHIFT": "s",
+    "RGUI": "❖",
+    "LGUI": "❖",
+}
+hyper = {m for m in modifier_alias if m.startswith("L")}
 
 
 @dataclass(slots=True, init=False)
@@ -118,6 +140,10 @@ class Key:
                 return "✗"
             case "caps_word":
                 return "⇪"
+            case "bootloader":
+                return "↻"
+            case "reset":
+                return "↺"
             case "mt":
                 return f"{self.arg_to_str(self.args[0])} ─── {self.arg_to_str(self.args[1])}"
             case _:
@@ -132,7 +158,10 @@ class Key:
             case str(_):
                 return code_to_text(arg)
             case list(_):
-                return f"{'+'.join(arg[:-1])}+{code_to_text(arg[-1])}"
+                if set(arg) == hyper:
+                    return "hyper"
+                parts = [modifier_alias.get(p, p) for p in arg]
+                return f"{'+'.join(parts[:-1])}+{code_to_text(parts[-1])}"
 
 
 @dataclass(slots=True)

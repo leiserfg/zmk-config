@@ -19,16 +19,16 @@ preprocessor = PP()
 preprocessor.line_directive = "//"  # Show comment instead of directive
 
 # Define preappliad modifiers
-preprocessor.define("LA(ARG)  __a  ARG")
-preprocessor.define("LS(ARG)  __s  ARG")
-preprocessor.define("LC(ARG)  __c  ARG")
-preprocessor.define("LG(ARG)  __g  ARG")
+preprocessor.define("LA(ARG)  __LALT  ARG")
+preprocessor.define("LS(ARG)  __LSHIFT  ARG")
+preprocessor.define("LC(ARG)  __LCTRL  ARG")
+preprocessor.define("LG(ARG)  __LGUI  ARG")
 
 
-preprocessor.define("RA(ARG) __ra ARG")
-preprocessor.define("RS(ARG) __s ARG")
-preprocessor.define("RG(ARG) __g ARG")
-preprocessor.define("RC(ARG) __c ARG")
+preprocessor.define("RA(ARG) __RALT ARG")
+preprocessor.define("RS(ARG) __RSHIFT ARG")
+preprocessor.define("RC(ARG) __RCTRL ARG")
+preprocessor.define("RG(ARG) __RGUI ARG")
 
 Language.build_library(
     # Store the library in the `build` directory
