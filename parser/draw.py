@@ -50,7 +50,7 @@ class Painter:
             width="{w}"
             height="{h}"
             rx="{r}"
-            style="fill:{fill};stroke:black;stroke-width:0.4;"/>
+            style="fill:{fill};stroke:black;stroke-width:0.8;"/>
             """
         )
         words = str(text).split()
