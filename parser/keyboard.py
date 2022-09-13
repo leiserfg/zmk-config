@@ -27,6 +27,7 @@ _code_to_text = {
     "prcnt": "%",
     "dot": ".",
     "comma": ",",
+    "cmma": ",",
     "semi": ";",
     "scln": ";",
     "dqt": '"',
