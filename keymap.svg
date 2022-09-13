@@ -51,12 +51,12 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="146.73214285714286" >T</text>
  <rect x="232.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="120.01785714285714" >g+a+s+ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="120.01785714285714" >hyper</text>
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="133.375" >───</text>
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="146.73214285714286" >D</text>
  <rect x="319.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="110" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="120.01785714285714" >g+a+s+ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="120.01785714285714" >hyper</text>
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="133.375" >───</text>
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="146.73214285714286" >H</text>
  <rect x="377.0" y="118.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
@@ -133,10 +133,10 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="353.375" >F</text>
  <rect x="174.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="353.375" >bootloader</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="353.375" >↻</text>
  <rect x="232.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="353.375" >reset</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="353.375" >↺</text>
  <rect x="319.0" y="338.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="330" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="353.375" >J</text>
@@ -174,7 +174,7 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="421.7321428571429" >T</text>
  <rect x="232.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="385" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="395.01785714285717" >g+a+s+ctrl</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="395.01785714285717" >hyper</text>
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="408.375" >───</text>
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="421.7321428571429" >D</text>
  <rect x="319.0" y="393.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
@@ -249,10 +249,10 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="628.375" >F</text>
  <rect x="174.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="628.375" >bootloader</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="628.375" >↻</text>
  <rect x="232.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="628.375" >reset</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="628.375" >↺</text>
  <rect x="319.0" y="613.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="605" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="628.375" >J</text>
@@ -288,7 +288,7 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="696.7321428571428" >T</text>
  <rect x="232.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="683.375" >KP_EQUAL</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="683.375" >=</text>
  <rect x="319.0" y="668.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="660" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="683.375" >🡰</text>
@@ -361,13 +361,13 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="903.375" >&amp;</text>
  <rect x="232.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="903.375" >reset</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="903.375" >↺</text>
  <rect x="319.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="903.375" >reset</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="348.0" y="903.375" >↺</text>
  <rect x="377.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="903.375" >bootloader</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="903.375" >↻</text>
  <rect x="435.0" y="888.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="435.0" y="880" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="464.0" y="903.375" >}</text>
@@ -379,19 +379,19 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="903.375" >)</text>
  <rect x="0.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="958.375" >DQT</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="958.375" >"</text>
  <rect x="58.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="958.375" >^</text>
  <rect x="116.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="958.375" >PRCNT</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="145.0" y="958.375" >%</text>
  <rect x="174.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="958.375" >DLLR</text>
  <rect x="232.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="958.375" >KP_PLUS</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="261.0" y="958.375" >+</text>
  <rect x="319.0" y="943.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="935" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="958.375" >🡰</text>
@@ -464,10 +464,10 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="1178.375" >&amp;</text>
  <rect x="232.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1178.375" >reset</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1178.375" >↺</text>
  <rect x="319.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1178.375" >reset</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1178.375" >↺</text>
  <rect x="377.0" y="1163.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="377.0" y="1155" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1178.375" >7</text>
@@ -482,19 +482,19 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="580.0" y="1178.375" >)</text>
  <rect x="0.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="0.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="1233.375" >DQT</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="29.0" y="1233.375" >"</text>
  <rect x="58.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="58.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="87.0" y="1233.375" >^</text>
  <rect x="116.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="116.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="1233.375" >PRCNT</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="145.0" y="1233.375" >%</text>
  <rect x="174.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="174.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="203.0" y="1233.375" >DLLR</text>
  <rect x="232.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="232.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1233.375" >KP_PLUS</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="261.0" y="1233.375" >+</text>
  <rect x="319.0" y="1218.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.4;"/> 
  <rect x="319.0" y="1210" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.4;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1233.375" >🡰</text>
