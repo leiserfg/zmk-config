@@ -188,7 +188,9 @@ class Keyboard:
             for key_idx, key in enumerate(layer.keys):
                 match key.behavior:
                     case "trans":
-                        upper = self.layers[layer_idx - 1].keys[key_idx]
+                        # This does not work well if the config uses 
+                        # &to but that will be hard to handle
+                        upper = self.layers[0].keys[key_idx]
                         key.behavior = upper.behavior
                         key.args = upper.args
                         key.is_transparent = True
