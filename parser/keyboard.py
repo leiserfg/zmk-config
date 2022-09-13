@@ -70,24 +70,69 @@ def code_to_text(code):
     return _code_to_text.get(code, code.upper())
 
 
-@dataclass(slots=True)
+@dataclass(slots=True, init=False)
 class Key:
     behavior: str
     args: list[str | int]
     is_pressed: bool = False
     is_transparent: bool = False
+    are_mods_comb: bool = False
+
+    def __init__(
+        self,
+        behavior: str,
+        args: list[str | int | list[str]],
+    ):
+        self.behavior = behavior
+        self.args = args
+
+        self.is_pressed = False
+        self.is_transparent = False
+        self.are_mods_comb = False
+
+    def combine_modifiers(self):
+        out = []
+        tmp = []
+        for arg in self.args:
+            if isinstance(arg, str) and arg.startswith("__"):
+                tmp.append(arg[2:])
+            else:
+                if tmp:
+                    tmp.append(arg)
+                    out.append(tmp)
+                    tmp = []
+                else:
+                    out.append(arg)
+
+        self.are_mods_comb = True
+        self.args = out
 
     def __str__(self):
+        if not self.are_mods_comb:
+            self.combine_modifiers()
         match self.behavior:
             case "kp":
                 code = self.args[0]
-                return code_to_text(code)
+                return self.arg_to_str(code)
             case "none":
                 return "✗"
             case "caps_word":
                 return "⇪"
+            case "mt":
+                return f"{self.arg_to_str(self.args[0])} ─── {self.arg_to_str(self.args[1])}"
             case _:
-                return f'{self.behavior} {" ".join(code_to_text(a) for a in self.args)}'
+                return (
+                    f'{self.behavior} {" ".join(self.arg_to_str(a) for a in self.args)}'
+                )
+
+    def arg_to_str(self, arg):
+        match arg:
+            case int(_):
+                return str(arg)
+            case str(_):
+                return code_to_text(arg)
+            case list(_):
+                return f"{'+'.join(arg[:-1])}+{code_to_text(arg[-1])}"
 
 
 @dataclass(slots=True)
