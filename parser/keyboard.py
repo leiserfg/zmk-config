@@ -3,6 +3,7 @@ from functools import cached_property
 
 _code_to_text = {
     "space": "␣",
+    "spc": "␣",
     "hash": "#",
     "bslh": "\\",
     "fslh": "/",
