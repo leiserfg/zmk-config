@@ -4,7 +4,7 @@ from pathlib import Path
 from pcpp.preprocessor import Action, OutputDirective, Preprocessor
 from tree_sitter import Language, Parser
 
-from keyboard import Key, Keyboard, Layer
+from keyboard import Combo, Key, Keyboard, Layer
 
 
 class PP(Preprocessor):
@@ -69,6 +69,19 @@ layer_query = devicetree.query(
 )
 
 
+combos_query = devicetree.query(
+    """
+    (
+        (node (property
+               value:(string_literal) @compatible_value)
+            (node) @combo
+        )
+    (#match? @compatible_value "zmk,combos")
+    )
+    """
+)
+
+
 def preprocess(text):
     preprocessor.parse(text)
     preprocessed = StringIO()
@@ -93,6 +106,10 @@ def _parse_cells(cells):
     return keys
 
 
+def _parse_ints(ints):
+    return [int(i.text.decode()) for i in ints.named_children]
+
+
 def _parse_layers(layer_nodes):
     for layer in layer_nodes:
         captures = {k: v for v, k in layer_query.captures(layer)}
@@ -101,10 +118,27 @@ def _parse_layers(layer_nodes):
         yield Layer(name=name, keys=_parse_cells(cells))
 
 
+def _parse_combos(combo_nodes):
+    for combo in combo_nodes:
+        props = [
+            child.named_children
+            for child in combo.named_children
+            if child.type == "property"
+        ]
+        props = {p[0].text.decode(): p[1] for p in props}
+        yield Combo(
+            bindings=_parse_cells(props["bindings"]),
+            key_positions=_parse_ints(props["key-positions"]),
+        )
+
+
 def parse_keyboard(text):
     tree = parser.parse(text)
 
     captures = keymap_query.captures(tree.root_node)
     layers = (node for node, name in captures if name == "layer")
 
-    return Keyboard(_parse_layers(layers))
+    captures = combos_query.captures(tree.root_node)
+    combos = (node for node, name in captures if name == "combo")
+
+    return Keyboard(_parse_layers(layers), _parse_combos(combos))

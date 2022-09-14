@@ -176,11 +176,19 @@ class Layer:
         return self.name.replace('"', "")
 
 
+@dataclass(slots=True)
+class Combo:
+    key_positions: list[int]
+    bindings: list[Key]
+
+
 class Keyboard:
     layers: list[Layer]
+    combos: list[Combo]
 
-    def __init__(self, layers):
+    def __init__(self, layers, combos):
         self.layers = list(layers)
+        self.combos = list(combos)
         self._evaluate_behaviors()
 
     def _evaluate_behaviors(self):
@@ -188,7 +196,7 @@ class Keyboard:
             for key_idx, key in enumerate(layer.keys):
                 match key.behavior:
                     case "trans":
-                        # This does not work well if the config uses 
+                        # This does not work well if the config uses
                         # &to but that will be hard to handle
                         upper = self.layers[0].keys[key_idx]
                         key.behavior = upper.behavior

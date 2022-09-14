@@ -1,6 +1,6 @@
 from textwrap import dedent
 
-from keyboard import Key, Keyboard, Layer, SplitLayout
+from keyboard import Combo, Key, Keyboard, Layer, SplitLayout
 
 
 def inline(text):
@@ -112,11 +112,46 @@ class Painter:
                 )
         return "\n".join(drawings)
 
+    def draw_combo(self, combo: Combo, y_offset):
+        drawings = []
+        for idx, key_pos in enumerate(combo.key_positions):
+            x = idx * self.key_width
+            drawings.append(
+                self.draw_released_key(
+                    x,
+                    y_offset,
+                    self.keyboard.layers[0].keys[key_pos],
+                    font_color="black",
+                )
+            )
+        amount_of_pos = len(combo.key_positions)
+        drawings.append(
+            self._text(
+                (amount_of_pos + 0.5) * self.key_width,
+                y_offset + self.key_width / 2,
+                "⇒",
+                font_size=self.key_height,
+            )
+        )
+        for idx, key in enumerate(combo.bindings):
+            x = (amount_of_pos + idx + 1) * self.key_width
+            drawings.append(
+                self.draw_released_key(
+                    x,
+                    y_offset,
+                    key,
+                    font_color="black",
+                )
+            )
+        return "\n".join(drawings)
+
     def draw_keyboard(self):
         board_w, board_h = self.layout.size(
             self.key_width, self.key_height, self.half_sep
         )
-        total_h = (board_h + self.key_height) * len(self.keyboard)
+        total_layers_h = (board_h + self.key_height) * len(self.keyboard)
+        total_combos_h = self.key_height * (len(self.keyboard.combos) + 1)
+        total_h = total_layers_h + total_combos_h
         head = inline(
             f"""
             <svg
@@ -149,8 +184,16 @@ class Painter:
                 )
                 for idx, layer in enumerate(self.keyboard)
             )
+            + self._text(
+                board_w / 2,
+                total_layers_h + 0.5 * self.key_height,
+                "Combos",
+                font_size=self.key_height / 2,
+            )
+            + "\n".join(
+                self.draw_combo(c, total_layers_h + (1 + idx) * self.key_height)
+                for idx, c in enumerate(self.keyboard.combos)
+            )
             + "\n"
             + tail
         )
-
-

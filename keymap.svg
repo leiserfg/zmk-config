@@ -1,4 +1,4 @@
- <svg  width="609.0"  height="1375"  viewBox="0 0 609.0 1375"  xmlns="http://www.w3.org/2000/svg"  style="  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;  font-size: 15.583333333333334px;  font-kerning: normal;  text-rendering: optimizeLegibility;">
+ <svg  width="609.0"  height="1650"  viewBox="0 0 609.0 1650"  xmlns="http://www.w3.org/2000/svg"  style="  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;  font-size: 15.583333333333334px;  font-kerning: normal;  text-rendering: optimizeLegibility;">
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="27.5" >default</text>/n <rect x="0.0" y="63.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
  <rect x="0.0" y="55" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="78.375" >Q</text>
@@ -579,5 +579,48 @@
  <text text-anchor="middle" dominant-baseline="middle"           style="fill:#aaa;font-size:13.357142857142858px" x="348.0" y="1343.375" >↵</text>
  <rect x="377.0" y="1328.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
  <rect x="377.0" y="1320" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
- <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1343.375" >0</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="406.0" y="1343.375" >0</text> <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:27.5px" x="304.5" y="1402.5" >Combos</text> <rect x="0" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="0" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1453.375" >Z</text>
+ <rect x="58" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="58" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1453.375" >/</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:55px" x="145.0" y="1459.0" >⇒</text>
+ <rect x="174" y="1438.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="174" y="1430" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="1453.375" >⇪</text>
+ <rect x="0" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="0" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1495.017857142857" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1508.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1521.732142857143" >A</text>
+ <rect x="58" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="58" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1495.017857142857" >❖</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1508.375" >───</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1521.732142857143" >O</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:55px" x="145.0" y="1514.0" >⇒</text>
+ <rect x="174" y="1493.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="174" y="1485" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="1508.375" >⎋</text>
+ <rect x="0" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="0" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1563.375" >P</text>
+ <rect x="58" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="58" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1563.375" >L</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:55px" x="145.0" y="1569.0" >⇒</text>
+ <rect x="174" y="1548.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="174" y="1540" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="1563.375" >-</text>
+ <rect x="0" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="0" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="29.0" y="1618.375" >V</text>
+ <rect x="58" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="58" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="87.0" y="1618.375" >M</text>
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:55px" x="145.0" y="1624.0" >⇒</text>
+ <rect x="174" y="1603.25" width="58" height="46.75" rx="10" style="fill:black;stroke:black;stroke-width:0.8;"/> 
+ <rect x="174" y="1595" width="58" height="46.75" rx="10" style="fill:white;stroke:black;stroke-width:0.8;"/> 
+ <text text-anchor="middle" dominant-baseline="middle"           style="fill:black;font-size:13.357142857142858px" x="203.0" y="1618.375" >_</text>
 </svg>
