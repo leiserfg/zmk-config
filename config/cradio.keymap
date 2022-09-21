@@ -22,7 +22,7 @@
   combo_##NAME { \
     bindings = <BINDINGS>; \
     key-positions = <KEYPOS>; \
-    timeout-ms = 80; \
+    timeout-ms = <80>; \
   };
 
 &mt {
@@ -41,12 +41,12 @@
   ╰───────────╮ 30  31 │ │ 32  33 ╭───────────╯
               ╰────────╯ ╰────────╯            */
         compatible = "zmk,combos";
-        /* COMBO(caps_word, &caps_word, 20 29) */
-        /* COMBO(esc, &kp ESC, 10 19) */
-        /* COMBO(minus, &kp MINUS, 3 6) */
-        /* COMBO(repeat, &repeat, 4 5) */
-        /* COMBO(under, &kp UNDER, 23 26) */
-        /* COMBO(ralt, &sk RALT, 30 33) */
+        COMBO(caps_word, &caps_word, 20 29)
+        COMBO(esc, &kp ESC, 10 19)
+        COMBO(minus, &kp MINUS, 3 6)
+        COMBO(repeat, &repeat, 4 5)
+        COMBO(under, &kp UNDER, 23 26)
+        COMBO(ralt, &sk RALT, 30 33)
     };
 
     keymap {
