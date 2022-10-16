@@ -47,6 +47,7 @@
         COMBO(repeat, &key_repeat, 4 5)
         COMBO(under, &kp UNDER, 23 26)
         COMBO(ralt, &sk RALT, 30 33)
+        COMBO(del, &kp DEL, 28 29)
     };
 
     keymap {
