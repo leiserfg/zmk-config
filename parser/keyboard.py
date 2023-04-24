@@ -145,7 +145,7 @@ class Key:
                 return "⇪"
             case "bootloader":
                 return "↻"
-            case "reset":
+            case "sys_reset":
                 return "↺"
             case "mt":
                 return f"{self.arg_to_str(self.args[0])} ─── {self.arg_to_str(self.args[1])}"
